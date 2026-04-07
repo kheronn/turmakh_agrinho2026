@@ -5,7 +5,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este artefato tecnológico foi desenvolvido como parte da formação de estudantes da rede estadual de ensino. O objetivo é oferecer uma ferramenta de visualização de dados que auxilie o produtor rural a encontrar o equilíbrio ideal entre a **capacidade produtiva** e a **preservação ambiental**.
+Este artefato tecnológico foi desenvolvido como parte da formação de professores da rede estadual de ensino. O objetivo é oferecer uma ferramenta de visualização de dados que auxilie o produtor rural a encontrar o equilíbrio ideal entre a **capacidade produtiva** e a **preservação ambiental**.
 
 O dashboard permite a entrada de dados reais da propriedade (hectares de produção e hectares de preservação) e fornece um feedback visual imediato sobre a conformidade com as metas de sustentabilidade, unindo conceitos de agronegócio e pensamento computacional.
 
